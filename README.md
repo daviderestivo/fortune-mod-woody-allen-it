@@ -6,5 +6,5 @@ Fortune files of Woody Allen quotes in Italian language for Linux (and Unix) for
 
 ## Installation
 
-To install this fortune files please copy the content of ./files into
-your fortune folder: /usr/share/games/fortune
+To install this fortune files please copy the content of `./files` into
+your fortune folder: `/usr/share/games/fortune`
